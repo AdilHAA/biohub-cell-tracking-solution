@@ -1,0 +1,18 @@
+Biohub — Cell Tracking During Development
+
+The tracking models and dataset reader in upstream/ are from Pilkwang Kim's
+Biohub Tracking Support Pack (pilkwang/biohub-tracking-support-pack-50ep-v1,
+CC0 1.0: https://creativecommons.org/publicdomain/zero/1.0/).
+
+The post-processing follows Frontier947 Readmit v1 by Teddy Tennant
+(thtennant/biohub-frontier947-readmit-v1) and Geometric Fusion by Aman Atar
+(amanatar/biohub-geometric-fusion), both Apache-2.0. The harmonic fusion stack
+follows flexonafft's Biohub Harmonic Fusion, with the mutual-support rule from
+Yusuke Togashi's notebook yusuketogashi/no-hack-biohub-cell-another-approch-3rd
+(version 18, CC0).
+
+The refinement architecture and sampling follow Anvith Pothula's Biohub x138
+(anvithpothula/biohub-0-953-lb-original, Apache-2.0). The final 13-head ensemble
+was trained and integrated by Adil Khabibullin (Mega Shake UP).
+
+Apache-2.0 license text: LICENSES/Apache-2.0.txt
