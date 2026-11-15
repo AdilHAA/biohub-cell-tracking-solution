@@ -13,6 +13,6 @@ Yusuke Togashi's notebook yusuketogashi/no-hack-biohub-cell-another-approch-3rd
 
 The refinement architecture and sampling follow Anvith Pothula's Biohub x138
 (anvithpothula/biohub-0-953-lb-original, Apache-2.0). The final 13-head ensemble
-was trained and integrated by Adil Khabibullin (Mega Shake UP).
+was trained and integrated by Adil Khabibullin (MISIS cell).
 
 Apache-2.0 license text: LICENSES/Apache-2.0.txt

@@ -1,6 +1,6 @@
 # Biohub — Cell Tracking During Development
 
-Решение для [соревнования Biohub на Kaggle](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development). **Mega Shake UP** — 172-е место из 3 947 команд, серебряная медаль. Участвовал один. Итоговый score на private leaderboard — **0.92433**. [Сертификат Kaggle](https://www.kaggle.com/certification/competitions/adilkhabibullin/biohub-cell-tracking-during-development).
+Решение для [соревнования Biohub на Kaggle](https://www.kaggle.com/competitions/biohub-cell-tracking-during-development). **MISIS cell** — 172-е место из 3 947 команд, серебряная медаль. Участвовал один. Итоговый score на private leaderboard — **0.92433**. [Сертификат Kaggle](https://www.kaggle.com/certification/competitions/adilkhabibullin/biohub-cell-tracking-during-development).
 
 ## Задача
 
